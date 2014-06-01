@@ -1,0 +1,544 @@
+\documentclass[Computer Science]{vita}
+
+\newkind{Thesis}
+\newkind{Books and Chapters}
+\newkind{Unrefereed Public Reports}
+
+\newcategory{Presentations and Invited Talks}
+\newcategory{Media Outreach}
+\newcategory{Community Outreach}
+\newcategory{Instructional Activities}
+\newcategory{Professional and Service Activities}
+\newcategory{Journal Article and Paper Review}
+
+\newkind{University}
+\newkind{Community}
+
+\newkind{Reviews}
+\newkind{Ph.D. Thesis Committee}
+\newkind{M.S. Thesis Adviser}
+\newkind{M.S. Project Adviser}
+\newkind{Curriculum Development}
+\newkind{Courses}
+
+\newcategory{Grants and Sponsored Research}
+
+%\usepackage[dips]{graphic}
+\usepackage{hyper ref}
+
+
+\begin{document}
+\name{James Woods}
+
+
+\businessAddress{Economics Department\\
+  Portland State University\\
+  1721 SW Broadway, Suite 241\\
+  Portland, OR 97201\\
+  \\
+  Email: woodsj@pdx.edu\\
+  Phone: (503) 465-4883}
+  
+\homeAddress{10612 NE Sacramento\\
+  Portland, OR 97220\\
+
+}
+
+\begin{vita}
+
+  \begin{Degrees}
+  \item University of California, Davis, CA, Ph.D. Economics, 2003;
+    research areas: Energy/Conservation Behavior, Industrial
+    Organization.
+
+  \item University of the Pacific, Stockton, CA, B.Sc. Economics,
+    1991.
+  \end{Degrees}
+
+  \begin{Experience}
+	
+  \item Portland State University,  Portland, OR\\
+    Assistant Professor, Economics, 2004 - Current\\
+    Research Associate, Urban Studies, 2000 - 2004, 2009 - Current\\
+    Adjunct Assistant Professor, Economics, 2000 - 2004
+	
+  \item Behavioral Economics, Portland, OR\\
+    Owner, 2001 - Current
+		
+  \item Portland Community College, Portland, OR\\
+    Adjunct Faculty, Economics, 2002 - 2004
+	
+  \item Washington State University, Sociology, Pullman, WA\\
+    Professional Worker II, 2001 - 2002
+	
+  \item Quantec, Portland, OR\\
+    Senior Associate, 1999 - 2001
+	
+  \item Econometric Solutions, Stockton, CA\\
+    Owner, 1998-1999
+		
+  \item California Energy Commission, Sacramento, CA\\
+    Internal Consultant, 1996 - 1998
+	
+  \item Solano Community College, Suisun, CA\\
+    Adjunct Faculty, Business, 1996
+		
+  \item University of the Pacific, Stockton, CA\\
+    Visiting Professor, Economics, 1994 - 1995
+
+  \end{Experience}
+
+  \begin{Honors}
+
+  \item ``Continuing Board Achievement Award'', Oregon School Boards Association, November 2009
+
+\item ``Outstanding Board Achievement Award'', Oregon School Boards Association, November 2008
+
+\item ``Multnomah County Volunteer Award'', Multnomah County Board of Commissioners, April 2008
+
+  \item ``Civic Engagement Award'' for Excellence in Faculty/Community
+    Partnership, Center for Academic Excellence, Portland State
+    University, June 2005
+
+  \end{Honors}
+
+  \begin{Grants and Sponsored Research}
+
+\item Advanced Residential Energy and Behavior Analysis, California Energy Commission, Co-Investigator, 2009 -- Current, \$1,213,787
+  
+\item Next-Generation Testing to Evaluate Sustainable Outcomes in Building Design and Construction,Emerging Frontiers in Research and Innovation- Science in Energy and Environmental Design (EFRI-SEED), Co-Investigator, 2009, approximately \$2,000,000 (Rejected)
+
+\item Recovery Act:  Advanced Energy Efficient Building Technologies, Department of Energy, Co-Investigator, 2009, \$1,750,397.39 (Rejected)
+ 
+\item Academic Innovation Mini-(AIM) Grant: Design or Retool a Technology-Assisted Course: A Comprehensive Approach, 2009, \$1,500
+
+\item The Columbia River Basin Sustainable Water Resources, Energy and Climate Initiative,  PSU Miller Grant, Co-Investigator, 2009, \$299,392 (\$1,299,392 total)
+
+\item Planning Grant for Research Institute for Sustainable Energy, PSU Miller Grant,  Co-Investigator, 2009, \$73,906
+
+  \item Understanding Customer Behavior to Improve Demand Response Delivery in California, University of California Berkeley Laboratory, Sub-contractor, 2007 -- 2009, \$22,540 (\$357,937 total)
+
+  \item Natural Gas Price Shock, California Institute for Energy
+    Efficiency, Co-Investigator, 2006, \$250,000
+
+  \item California Residential Energy Conservation Study, California Energy Commission, Sub-contractor, 2004, \$19,650 (\$1,200,000 total)
+
+  \end{Grants and Sponsored Research}
+
+  \begin{Publications}
+
+    \begin{Thesis}
+    \item \emph{Evolutionary Methods in Macroeconomics} \\
+      The dissertation introduces two evolutionary methods that can be
+      used to solve heterogeneous and homogeneous agent stochastic
+      dynamic programming problems. A third solution method, used for
+      homogeneous agent models and based on viral evolution, produces
+      forward looking and discounting behavior that closely mirrors
+      experimental evidence without assuming that agents are forward
+      looking.
+
+    \end{Thesis}
+
+    \begin{Papers in Refereed Journals}
+    \item ``What People Do When They Say They are Conserving Electricity'', \emph{Energy Policy}, June 2008
+
+
+    \item ``Toward Marginal Cost Pricing of Accident Risk: The Energy,
+      Travel, and Welfare Impacts of Pay-At-The-Pump Auto Insurance'',
+      \emph{Energy Policy}, June 1999 (With Chris Kavalek)
+
+    \end{Papers in Refereed Journals}
+
+    \begin{Papers at Refereed Conferences}
+
+    \item ``The Readability of College Economics Textbooks Revisited'', \emph{Western Economic Association International
+        85th Annual Conference}, 2010 (With Sarah Tinkler)
+
+    \item ``Online and In-Class Exams as a Method of Assigning Course Grades: 
+Are They Equivalent?'', \emph{Western Economic Association International
+        85th Annual Conference}, 2010 (With Sarah Tinkler)
+
+    \item ``Beyond the Price Effect in Time-of-Use Programs: Results
+      from a Municipal Utility Pilot, 2007-2008'', \emph{International
+        Energy Program Evaluation Conference}, 2009 (With with Susan
+      Lutzenhiser, Jane Peters and Mithra Moezzi)
+
+    \item ``Non-exponential Discounting with More Reliable Empirical
+      Tests'', \emph{Western Economic Association International 84th
+        Annual Conference}, 2009 (With Anna Kim)
+
+    \item ``Fiddling with Thermostats'', \emph{2006 ACEEE Summer Study
+        on Energy Efficiency in Buildings}, ACEEE, 2006
+
+    \item ``Lasting Impressions: Conservation and the 2001 California
+      Energy Crisis'', \emph{2004 ACEEE Summer Study on Energy
+        Efficiency in Buildings -- Proceedings}, ACEEE, 2004 (With
+      Lutzenhiser, L., R. Kunkle, S. Lutzenhiser, and S. Bender)
+
+    \item ``Market Transformation and Multiple Equilibria'',
+      \emph{2002 ACEEE Summer Study on Energy Efficiency in Buildings
+        -- Proceedings}, ACEEE, 2002 (With Adrienne Vayssires Kandel)
+	
+    \item ``Multi-Attribute Valuation for Cost Effective Evaluation of
+      Market Transformation and Other Hard to Quantify Programs'',
+      \emph{2001 International Energy Program Evaluation Conference}
+      (With Sami Khawaja)
+	
+    \item ``Equity Finance of Residential Real Estate: A Potential
+      Market Transformation Program'', \emph{2000 ACEEE Summer Study
+        on Energy Efficiency in Buildings -- Proceedings}, ACEEE, 2000
+    \end{Papers at Refereed Conferences}
+   
+    \begin{Unrefereed Public Reports}
+    
+    \item ``PowerChoice Residential Customer Response To TOU Rates'',
+      with Jane S. Peters, Mithra Moezzi, Susan Lutzenhiser, James
+      Woods, Linda Dethman, Rick Kunkle, Ernest Orlando Lawrence Berkeley National Laboratory, LBNL-3870E, October 2009
+    
+    \item ``Economics of Improved Indoor Air Quality and the Use of
+      Construction Methods that Promote Building Durability in
+      Affordable Multi-Family Dwellings'', with Randall Bluffstone,
+      Josh Newkirk, Marla Pemberton, Jessica Bonar, Portland, OR:
+      Portland Development Commission, 2009
+
+    \item ``Behavioral Assumptions in Energy Efficiency Potential
+      Studies'', Mithra Moezzi , James Woods Contributor, California
+      Institute for Energy and Environment, 2009
+
+    \item ``Energy Implications of Heating and Cooling Setpoint
+      Behavior'', Sacramento, CA: California Energy Commission, 2007
+
+    \item ``What People Do When They Say They are Conserving
+      Electricity'', Sacramento, CA: California Energy Commission,
+      2007
+
+    \item ``Parkrose On-line Talented and Gifted (TAG) Survey'',
+      Parkrose School District, 2005
+
+    \item ``Conservation Behavior by Residential Consumers During and
+      After the 200-2001 California Energy Crisis'', \emph{Public
+        Interest Energy Strategies Report} Pub \#100-03-012,
+      Sacramento, CA: California Energy Commission, 2003
+
+    \item \emph{The Energy Efficiency Public Goods Charge Report: A
+        Proposal for a New Millennium}, (Contributor) Committee Report
+      Pub 1999-12-08, 1999
+	
+    \item ``Signaling Quality in a Quality Control Contract'', in
+      \emph{Putting Market Transformation Evaluation into Action},
+      Sacramento, CA: California Energy Commission, 1998
+	
+    \item ``A Simple Semi-Bayesian View of the Energy Benefits for the
+      IQ+ Program'', in \emph{Putting Market Transformation Evaluation
+        into Action}, Sacramento, CA: California Energy Commission,
+      1998
+	
+    \end{Unrefereed Public Reports}
+  
+    \begin{Work in progress}
+    \item ``Residential Thermostat Set Point Behavior'', Working Paper
+    \end{Work in progress}
+
+  \end{Publications}
+%%%%%%%%%%%%%%%%%%%%
+
+  \begin{Presentations and Invited Talks}
+
+  \item ``Roundtable on Hybrid Courses'', \emph{Portland State University, Focus on the Faculty}, 2010
+
+  \item ``How Much Does Household Behavior Count'', \emph{2010 ACEEE
+      Summer Study on Energy Efficiency in Buildings} (Poster
+    Session), 2010
+	  
+  \item ``Online and In-Class Exams as a Method of Assigning Course
+    Grades: Are They Equivalent?'', \emph{Western Economic Association
+      International 85th Annual Conference}, July 2, 2010
+
+  \item ``Beyond the Price Effect in Time-of-Use Programs: Results
+    from a Municipal Utility Pilot, 2007-2008'', with Susan
+    Lutzenhiser, Jane Peters and Mithra Moezzi, \emph{International
+      Energy Program Evaluation Conference}, August 12, 2009
+
+  \item ``Non-exponential Discounting with More Reliable Empirical
+    Tests'', \emph{Western Economic Association International 84th
+      Annual Conference}, July 2, 2009
+
+  \item ``Economic and Financial Analysis of Improved Indoor Air
+    Quality in Affordable Housing Projects'', \emph{Portland State
+      University, Umbrella Tour}, March 11, 2009
+
+  \item ``Fiddling with Thermostats: Energy Implications of Heating
+    and Cooling Set Point Behavior'', \emph{Mechanical and Materials
+      Engineering Seminar}, May 2, 2008
+
+  \item ``Professional Engineering Review: Engineering Economics'',
+    \emph{Department of Mechanical and Materials Engineering, Portland
+      State University}, 2008
+  
+  \item Discussant ``Freakonomics'', \emph{Arlington Club, Portland,
+      OR }, 2007
+
+  \item ``Professional Engineering Review: Engineering Economics'',
+    \emph{Department of Mechanical and Materials Engineering, Portland
+      State University}, 2007
+
+  \item ``Fiddling with Thermostats'', \emph{2006 ACEEE Summer Study
+      on Energy Efficiency in Buildings}, 2006
+
+  \item ``Preliminary Results from the California State Electricity
+    Pricing Pilot'' (with Sarang Amirtabar, Christian Miner and Chris
+    Smith-Hill), \emph{Economics Department, Portland State
+      University}, 2006
+
+  \item ``Evaluating the Parkrose Talented and Gifted Program'',
+    \emph{Center for Academic Excellence, Portland State University},
+    2005
+
+  \item ``Professional Engineering Review: Engineering Economics'',
+    \emph{Department of Mechanical and Materials Engineering, Portland
+      State University}, 2005
+	
+  \item ``Evolution as Learning Yields Hyperbolic Discounting'',
+    \emph{Economics Department, Portland State University}, 2003
+
+  \item ``Market Transformation and Multiple Equilibria'', \emph{2002
+      ACEEE Summer Study on Energy Efficiency in Buildings}, 2002
+	
+  \item ``Multi-Attribute Valuation for Cost Effective Evaluation of
+    Market Transformation and Other Hard to Quantify Programs'',
+    \emph{2001 International Energy Program Evaluation Conference},
+    2001
+	
+  \item ``Equity Finance of Residential Real Estate: A Potential
+    Market Transformation Program'', \emph{2000 ACEEE Summer Study on
+      Energy Efficiency in Buildings}, 2000
+
+  \end{Presentations and Invited Talks}
+
+%%%%%%%%%%%%%
+
+
+  \begin{Media Outreach}
+  \item Quoted in \emph{Portland State University Vanguard} ``Rolling Out Hybrid Classes'', February 9, 2010
+  
+  \item Interview on \emph{OPB Radio: Think Out Loud} ``Cutting the
+    Budget'', April 30, 2009
+
+  \item Quoted in \emph{Oregonian}, ``Mayor Sam's plan for schools
+    remains obscure'', January 6, 2009
+
+  \item Quoted in \emph{Mid-county Memo}, ``School districts to
+    Portland Development commission: What about us?'', August 2008
+
+  \item Quoted in \emph{Oregon Sports Journal}, ``Can Anyone Save
+    Parkrose Football?  Oregon's Toughest Rebuilding Project'',
+    October, 2007
+
+  \item Quoted in \emph{Oregonian}, ``Classroom divides: Can you fix
+    school funding with an eye on the greater good when your wants are
+    so close to home?'', May, 25, 2006
+
+  \item Quoted in \emph{Oregonian}, ``School board backs Parkrose
+    contract, 4-0'', February, 24, 2006
+
+  \item Featured in \emph{East County News}, ``Parkrose donors'
+    dollars help strike up the band'', July 2005
+
+  \item Quoted in \emph{Baker City Herald}, ``Economists explain how
+    tourism can benefit an entire community'', June 24, 2005
+	
+  \item Featured in \emph{Portand State University Vanguard},
+    ``Awarding community education'', May 26, 2005
+	
+  \item Featured in \emph{Oregonian}, ``Three Unopposed For School
+    Board '', April 29, 2005
+	
+  \item Featured in \emph{Oregonian}, ``Some Fresh Faces Line Up For
+    School Board Races'', March 24, 2005
+
+  \end{Media Outreach}
+
+  \begin{Community Outreach}
+
+\item Invited Testimony, Oregon Senate, Education and Workforce Development Committee, SB250, February 10, 2011 
+  
+\item Oregon School Boards Association Legislative Committee On School Construction, Teacher Salaries, and Shared Responsibility, November 18, 2010   
+
+  \item Testimony to Portland Development Commission on Cooperative
+    Agreement with Portland Public Schools on Urban Renewal, June 25,
+    2008
+
+  \item Testimony to Multnomah County Commissioners on School and
+    Community Partnerships Budget, May 30, 2006
+
+  \item Testimony to City of Portland Charter Review Commission on
+    Form of Government and District Representation, April 4, 2006
+
+  \item Testimony to Multnomah County Commissioners on K-12 School
+    Funding, March 23, 2006
+
+  \item Testimony to Portland City Council on K-12 School Funding,
+    March 1, 2006
+
+  \item ``The Meth Crisis: A Public Policy Action Congress'',
+    Panelist, June 2005
+
+  \item ``High School Forum: Creating Community Consensus'', The
+    Leaders Roundtable, Invited Representative, December 2004
+  \end{Community Outreach}
+
+  \begin{Instructional Activities}
+
+    \begin{Reviews}
+    \item Textbook Review \emph{Principles of Micro Economics} by
+      Frank and Bernanke, McGraw-Hill, 2007
+
+    \item Textbook Review \emph{Economic Analysis of Industrial
+        Projects} by John Ristroph, Wiley, 2005
+
+    \item Textbook Review \emph{Engineering Economy} by Stephen
+      Robinson, Wiley, 2005
+    \end{Reviews}
+
+    \begin{Ph.D. Thesis Committee}
+    \item Rich Jolly, Systems Science, Portland State University,
+      ``The Role of Feedback in the Assimilation of Information in
+      Markets: Applications to Prediction Markets'', 2009 -- Current
+
+    %\item Mersiha Spahic, Urban Studies, Portland State University,
+    %  ``TBA'', 2009 -- Current
+
+    \end{Ph.D. Thesis Committee}
+
+    \begin{M.S. Thesis Adviser}
+    \item Oliver Smith, MUS, Portland State University,
+      Urban Studies and Planning, ``Socio-demographic Trends in
+      Household Travel and Associated Energy Usage in California'',
+      2007
+
+    \end{M.S. Thesis Adviser}
+
+    \begin{M.S. Project Adviser}
+    \item Anna Kim, M.S. Candidate, Portland State University,
+      Economics, ``The Form of the Discount Rate: An Empirical
+      Study'', 2008
+
+    \item Christian Miner, M.S. Candidate, Portland State University,
+      Economics, ``The Value of Transferred Risks in Time-of-use
+      Electrical Tariffs'', 2006 - 2007
+
+    \item Sarang Amirtabar, M.S. Candidate, Portland State University,
+      Economics, ``Good Times for Residential Peak Prices'', 2005 -
+      2007
+
+    \item Chris Smith-Hill, M.S. Candidate, Portland State University,
+      Economics, ``Prospect Theory and California Energy Demand:
+      Referencing in a Temporal Price Discrimination Model'', 2005 -
+      2007
+    \end{M.S. Project Adviser}
+
+    \begin{Curriculum Development}
+    \item Modified Course, EC 314 Public and Private Investment (4
+      credits), 2004
+    \end{Curriculum Development}
+
+    \begin{Courses}
+    \item Introduction to Microeconomics, EC 201
+    \item Introduction to Macroeconomics, EC 202
+    \item Public and Private Investment Analysis, EC 314
+    \item Public and Private Investment Analysis (Hybrid), EC 314
+				
+    \item Advanced Microeconomics, EC 576
+    \item Applications of Advanced Microeconomic Theory, EC 591
+
+    \item Behavioral and Experimental Economics, EC 410/510
+    \end{Courses}
+
+      
+  \end{Instructional Activities}
+  \begin{Professional and Service Activities}
+
+    \begin{University}
+
+    \item Undergraduate Curriculum Committee, Economics, Portland
+      State University, 2010 - Current
+
+    \item Promotion and Tenure Committee (Fixed-Term Faculty),
+      Economics, Portland State University, 2005 - Current
+
+    \item Spring Commencement Marshal, 2003 - Current
+  
+    \item By-Laws Committee, Economics, Portland State University,
+      2007 - 2010
+
+    \item University Budget Committee, Portland State University, 2006
+      - 2008
+
+    \item Judge, ``Civic Engagement Awards'', Center for Academic
+      Excellence, Portland State University, 2006
+
+    \end{University}
+
+    \begin{Community}
+
+    \item Oregon School Boards Association, Position \#19\\
+    Member, 2011 - Current
+
+    \item Parkrose Board of Education, Position \#5\\
+      Member 2005 - Current\\
+      Chairman, 2007 - 2010\\
+      Vice Chairman, 2005 - 2007
+
+    \item Parkrose School District Budget Committee\\
+      Ex Officio Member, 2005 - Current\\
+      Position \#3, 2005
+
+
+    \item  Education Cabinet, City of Portland and Multnomah County\\
+      Member, 2008 - 2010
+
+    \item Multnomah County, Central Citizen Budget Advisory Committee\\
+      Member, 2006 - 2009
+
+    \item Multnomah County, Human Services, Citizen Budget Advisory
+      Committee\\Member, 2007 - 2009
+
+    \item Portland Schools Foundation, ``Schools, Family, Housing
+      Community Grants Program'', Selection Committee, 2007 - 2008
+
+    \item ``The Better Business Bureau: Oregon and Southwest
+      Washington Business of the Year Awards'', Better Business
+      Bureau, Judge, November, 2007
+
+    \item Parkrose Educational Foundation\\
+      Liaison from Parkrose Board of Education, 2005 - 2007\\
+      Board Member, 2004-2005
+
+    \item Multnomah County, School and Community Partnerships, Citizen Budget Advisory Committee (Merged with Human Services)\\
+      Chairman, 2006 - 2007\\
+      Member, 2006 - 2007
+	
+    \item California Demand Side Management Advisory Committee (CADMAC), Persistence Sub-Committee\\
+      Ex Officio Member, 1998 - 1999
+
+    \end{Community}
+    \begin{Journal Article and Paper Review}
+
+    \item Energy Policy, 2007 - 2010
+    \item ACEEE Summer Study on Energy Efficiency in Buildings, 2000,
+      2002, 2004, 2006
+  \end{Journal Article and Paper Review}
+
+  \end{Professional and Service Activities}
+
+
+  % \begin{References}
+  %   The first person \\ his address \\ in multiple lines
+% 
+  %   \and
+% 
+  %   The second person \\ again, multiple lines
+  % \end{References}
+
+\end{vita}
+\end{document}
