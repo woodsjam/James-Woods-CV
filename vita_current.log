@@ -1,12 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.3.11)  14 NOV 2013 08:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.7.3)  29 JUL 2014 08:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **vita_current.tex
 (./vita_current.tex
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
-aded.
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
 (./vita.cls
 Document Class: vita 1996/10/09 class file ``vita'' to create Curriculum Vitae
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -351,7 +350,7 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!]
-Overfull \hbox (2.94266pt too wide) in paragraph at lines 176--178
+Overfull \hbox (2.94266pt too wide) in paragraph at lines 178--180
 []\OT1/cmr/m/n/10 ``Fiddling with Ther-mostats'', \OT1/cmr/m/it/10 2006 ACEEE S
 um-mer Study on En-ergy Ef-fi-ciency in Build-ings\OT1/cmr/m/n/10 , ACEEE,
  []
@@ -377,7 +376,7 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!]
-Overfull \hbox (7.9126pt too wide) in paragraph at lines 559--562
+Overfull \hbox (7.9126pt too wide) in paragraph at lines 563--566
 []\OT1/cmr/m/n/10 Multnomah County, School and Com-mu-nity Part-ner-ships, Cit-
 i-zen Bud-get Ad-vi-sory Com-mit-tee (Merged
  []
@@ -388,20 +387,20 @@ Non-PDF special ignored!
 
 Non-PDF special ignored!] ) 
 Here is how much of TeX's memory you used:
- 636 strings out of 495059
- 8911 string characters out of 3182030
- 72668 words of memory out of 3000000
- 3878 multiletter control sequences out of 15000+200000
- 7936 words of font info for 28 fonts, out of 3000000 for 9000
+ 636 strings out of 495028
+ 8911 string characters out of 6181498
+ 73592 words of memory out of 5000000
+ 3905 multiletter control sequences out of 15000+600000
+ 7936 words of font info for 28 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,13n,19p,326b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,13n,19p,326b,306s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
 2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on vita_current.pdf (8 pages, 108598 bytes).
+Output written on vita_current.pdf (8 pages, 108787 bytes).
 PDF statistics:
  55 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream
