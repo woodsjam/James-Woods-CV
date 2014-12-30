@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.7.3)  30 DEC 2014 15:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.7.3)  30 DEC 2014 15:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**vita_2Page082514.tex
-(./vita_2Page082514.tex
+**vita_2Page123014.tex
+(./vita_2Page123014.tex
 LaTeX2e <2011/06/27>
 Babel <3.9h> and hyphenation patterns for 2 languages loaded.
 (./vita.cls
@@ -154,7 +154,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip44
 )
-No file vita_2Page082514.aux.
+No file vita_2Page123014.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
@@ -193,28 +193,28 @@ LaTeX Warning: Missing home address on input line 50.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 241.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 236.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 236.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 236.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 241.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 241.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 241.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 241.
  ) 
 Here is how much of TeX's memory you used:
  4343 strings out of 495028
  65857 string characters out of 6181498
- 143507 words of memory out of 5000000
+ 144507 words of memory out of 5000000
  7576 multiletter control sequences out of 15000+600000
  5498 words of font info for 20 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,13n,21p,232b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,13n,21p,324b,502s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on vita_2Page082514.pdf (2 pages, 87557 bytes).
+Output written on vita_2Page123014.pdf (2 pages, 88811 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
