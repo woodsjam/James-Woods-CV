@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.7.3)  4 NOV 2014 09:37
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.7.3)  6 JAN 2015 11:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -350,7 +350,7 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!]
-Overfull \hbox (2.94266pt too wide) in paragraph at lines 179--181
+Overfull \hbox (2.94266pt too wide) in paragraph at lines 180--182
 []\OT1/cmr/m/n/10 ``Fiddling with Ther-mostats'', \OT1/cmr/m/it/10 2006 ACEEE S
 um-mer Study on En-ergy Ef-fi-ciency in Build-ings\OT1/cmr/m/n/10 , ACEEE,
  []
@@ -376,7 +376,7 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!]
-Overfull \hbox (7.9126pt too wide) in paragraph at lines 570--573
+Overfull \hbox (7.9126pt too wide) in paragraph at lines 571--574
 []\OT1/cmr/m/n/10 Multnomah County, School and Com-mu-nity Part-ner-ships, Cit-
 i-zen Bud-get Ad-vi-sory Com-mit-tee (Merged
  []
