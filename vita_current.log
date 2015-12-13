@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.19)  11 NOV 2015 20:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.19)  13 DEC 2015 19:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -380,7 +380,7 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!]
-Overfull \hbox (7.9126pt too wide) in paragraph at lines 579--582
+Overfull \hbox (7.9126pt too wide) in paragraph at lines 588--591
 []\OT1/cmr/m/n/10 Multnomah County, School and Com-mu-nity Part-ner-ships, Cit-
 i-zen Bud-get Ad-vi-sory Com-mit-tee (Merged
  []
@@ -408,7 +408,7 @@ cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
 2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on vita_current.pdf (9 pages, 109784 bytes).
+Output written on vita_current.pdf (9 pages, 110368 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream
