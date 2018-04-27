@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.26)  13 SEP 2017 11:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.26)  27 APR 2018 08:10
 entering extended mode
 **./vita_current.tex
 (vita_current.tex
@@ -46,9 +46,7 @@ Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip43
 )
 ! Undefined control sequence.
-<recently read> \Fullpages 
-                           
-l.29 \Fullpages
+l.30 \Fullpages
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -57,18 +55,18 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 No file vita_current.aux.
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 \ifx\newhyper\@undefined
 \gdef\newhyper#1#2{}
 \gdef\hyperfnpage#1#2{}
@@ -327,15 +325,15 @@ yper@nl
 } 
 \fi
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 49.
+(Font)              <12> on input line 50.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 49.
+(Font)              <8> on input line 50.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 49.
+(Font)              <6> on input line 50.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 49.
+(Font)              <7> on input line 50.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 49.
+(Font)              <5> on input line 50.
 [1
 Non-PDF special ignored!
 
@@ -347,13 +345,13 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!]
-Overfull \hbox (2.94266pt too wide) in paragraph at lines 186--188
+Overfull \hbox (2.94266pt too wide) in paragraph at lines 187--189
 []\OT1/cmr/m/n/10 ``Fiddling with Ther-mostats'', \OT1/cmr/m/it/10 2006 ACEEE S
 um-mer Study on En-ergy Ef-fi-ciency in Build-ings\OT1/cmr/m/n/10 , ACEEE,
  []
 
 ! Misplaced alignment tab character &.
-l.210 ...Energy and Behavior Analysis Project". R&
+l.211 ...Energy and Behavior Analysis Project". R&
                                                   D Report. Publication \# C...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -402,20 +400,20 @@ Non-PDF special ignored!
 
 Non-PDF special ignored!] ) 
 Here is how much of TeX's memory you used:
- 641 strings out of 493328
- 9035 string characters out of 3139121
+ 640 strings out of 493328
+ 9026 string characters out of 3139121
  78989 words of memory out of 3000000
- 4234 multiletter control sequences out of 15000+200000
+ 4233 multiletter control sequences out of 15000+200000
  7936 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,13n,19p,328b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,13n,19p,328b,304s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on vita_current.pdf (9 pages, 117925 bytes).
+Output written on vita_current.pdf (9 pages, 117928 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
